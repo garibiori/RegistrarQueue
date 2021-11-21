@@ -15,5 +15,5 @@ make all
 
 //window values 3 and 4 dont give seg faults but other vlues may give seg faults
 //some values might throw empty queue exceptions
-//make file also doesnt always work so maybe try g++ *.cpp then ./a.out input.txt
+//make file also doesnt always work so maybe try g++ *.cpp then ./a.out input.txt the make file may work though
 
