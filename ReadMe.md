@@ -11,7 +11,8 @@ Worked with Ori G
 NA
 
 make all 
-./assignment5.exe
-//make file currently not working
-//try g++ *.cpp
+./assignment5.exe input.txt
+
+//window vlaues 3 and 4 dont give seg faults but other vlues may give seg faults
+//some values might throw empty queue exceptions
 
