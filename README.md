@@ -1,1 +1,18 @@
-# CPSC350_FA21_ASSIGNMENT5_GARIBI
+USING A LATE DAY FOR THIS ASSIGNMENT
+
+
+README Assignment 5
+
+Ori Garibi 2367830 garibi@chapman.edu CPSC 350 Assignment_3
+Simulation.h Student.h MyWindows.h ListInterface.h main.cpp, MyWindows.h GenQueue.h, DoublyLinkedList.h, Makefile
+
+Worked with Devin K
+
+NA
+
+make all 
+./assignment5.exe input.txt
+
+//window values 3 and 4 dont give seg faults but other vlues may give seg faults
+//some values might throw empty queue exceptions
+
