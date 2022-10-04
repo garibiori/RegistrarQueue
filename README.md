@@ -1,4 +1,4 @@
-Line for the school registrar
+Line for the school registrar using a queue
 
 Simulation.h Student.h MyWindows.h ListInterface.h main.cpp, MyWindows.h GenQueue.h, DoublyLinkedList.h, Makefile
 
